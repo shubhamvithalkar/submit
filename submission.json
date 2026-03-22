@@ -1,0 +1,7 @@
+{
+  "prompt": "A single human hand, palm up, cradling a tiny glowing Earth — but the Earth is cracking apart like burned, dried soil, deep fissures splitting it open, emitting faint orange heat from within. The background is pure black. The hand is rendered in warm skin tones, slightly ash-dusted as if scorched. No text, no labels, no charts, no axes. The Earth is visibly smaller and dimmer than it should be, as if shrinking from heat. The mood is grief and irreversibility. Photorealistic, dramatic side lighting, magazine editorial photography style.",
+  "model": "DALL-E 3",
+  "dataset_name": "GISS Surface Temperature Analysis (GISTEMP v4)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Earth's 2024 surface temperature was the hottest ever recorded — 1.28°C above the 1951–1980 baseline — capping 15 consecutive months of broken monthly heat records, a streak with no precedent in the 144-year observational record."
+}
