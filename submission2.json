@@ -1,0 +1,6 @@
+{
+  "prompt": "A tailor's mannequin wearing an extraordinarily contorted, custom suit — the fabric is pulled, pinched and shaped to match every irregular bump, curve and asymmetry of one specific human body, with strange protrusions and unnatural folds sewn permanently into the fabric. The suit looks perfect on the lumpy mannequin it was made for, but deeply wrong and unwearable as a general garment. Dimly lit tailor's workshop, dust in the air, bolts of fabric in the background. Photorealistic, cinematic lighting, no text, no labels.",
+  "model": "DALL-E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored so precisely to one body's irregularities that it fits that mannequin perfectly but would be unwearable on anyone else — memorization over generalization."
+}
